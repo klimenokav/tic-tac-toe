@@ -1,0 +1,108 @@
+.head{
+    text-align: center;
+    margin-bottom: 20px ;
+}
+.players{
+    text-align: center;
+    margin-bottom: 20px ;
+}
+.score{
+    text-align: center;
+    margin-bottom: 20px ;
+}
+.progress{
+    text-align: center;
+    margin-bottom: 20px ;
+}
+
+
+.field {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+}
+.field2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+}
+.field3 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+}
+.kub1{
+    font-size: 40px;
+    width: calc(100% / 6);
+    height: 70px;
+    text-align: center;
+    align-items: center;
+    border: 1px solid black;
+}
+.kub2{
+    font-size: 40px;
+    width: calc(100% / 6);
+    height: 70px;
+    text-align: center;
+    align-items: center;
+    border: 1px solid black;
+}.kub3{
+    font-size: 40px;
+    width: calc(100% / 6);
+    height: 70px;
+    text-align: center;
+    align-items: center;
+    border: 1px solid black;
+}.kub4{
+    font-size: 40px;
+    width: calc(100% / 6);
+    height: 70px;
+    text-align: center;
+    align-items: center;
+    border: 1px solid black;
+}.kub5{
+    font-size: 40px;
+    width: calc(100% / 6);
+    height: 70px;
+    text-align: center;
+    align-items: center;
+    border: 1px solid black;
+}.kub6{
+    font-size: 40px;
+    width: calc(100% / 6);
+    height: 70px;
+    text-align: center;
+    align-items: center;
+    border: 1px solid black;
+}.kub7{
+    font-size: 40px;
+    width: calc(100% / 6);
+    height: 70px;
+    text-align: center;
+    align-items: center;
+    border: 1px solid black;
+}.kub8{
+    font-size: 40px;
+    width: calc(100% / 6);
+    height: 70px;
+    text-align: center;
+    align-items: center;
+    border: 1px solid black;
+}
+.kub9{
+    font-size: 40px;
+    width: calc(100% / 6);
+    height: 70px;
+    text-align: center;
+    align-items: center;
+    border: 1px solid black;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
